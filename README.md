@@ -17,7 +17,7 @@ Assume you have the server license, so you need to install the relevant version 
 
 NOTE: Use this project as a guideline to build your web service.
 
-If you have a version other than 11.5 (which is the version this project uses), update your reference to the dll's.
+If you have a version other than 11.0 (which is the version this project uses), update your reference to the dll's.
 
 Then hit that build button!
 
